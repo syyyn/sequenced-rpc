@@ -1,6 +1,6 @@
 {
-  "name": "litecoind-rpc",
-  "description": "Litecoin Client Library to connect to Litecoin Core via RPC",
+  "name": "sequenced-rpc",
+  "description": "Sequence Client Library to connect to Sequence Core via RPC",
   "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
@@ -26,15 +26,19 @@
     {
       "name": "Loshan T",
       "email": "loshan1212@gmail.com"
+    },
+    {
+      "name": "syyyn",
+      "email": "syn@synister.dev"
     }
   ],
   "keywords": [
-    "litecoin",
+    "sequence",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecoind-rpc"
+    "url": "https://github.com/syyyn/sequenced-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -53,7 +57,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/litecoin-project/litecoind-rpc/issues"
+    "url": "https://github.com/syyyn/sequenced-rpc/issues"
   },
-  "homepage": "https://github.com/litecoin-project/litecoind-rpc"
+  "homepage": "https://github.com/syyyn/sequenced-rpc"
 }
